@@ -47,7 +47,8 @@ Hard-working, disciplined, and respectful, with a strong interest in **software 
 
 - **Erasmus+ in Poland** (Spring 2025) — academic and cultural exchange experience  
 - **Global Game Jam 2025** — teamwork, creativity under pressure  
-- **Volunteering** — teamwork, leadership, event support  
+- **Volunteering** — teamwork, leadership, event support
+- **HackerRank** — Certificate of Accomplishment (https://www.hackerrank.com/certificates/iframe/a7cc47f70cd4)
 
 ---
 
