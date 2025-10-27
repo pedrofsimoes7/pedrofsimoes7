@@ -57,7 +57,7 @@ Hard-working, disciplined, and respectful, with a strong interest in **software 
 
 - 📧 Email: [pfs.pedrosimoes@gmail.com](mailto:pfs.pedrosimoes@gmail.com)  
 - 💼 LinkedIn: www.linkedin.com/in/pedro-simões-b8aaaa349  
-- 🌐 Portfolio:
+- 🌐 Portfolio: https://pedrosimoes.dev/
 - 🐙 GitHub: [github.com/pedrofsimoes7](https://github.com/pedrofsimoes7)
 
 ---
