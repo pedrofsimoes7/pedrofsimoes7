@@ -49,6 +49,7 @@ Hard-working, disciplined, and respectful, with a strong interest in **software 
 - **Global Game Jam 2025** — teamwork, creativity under pressure  
 - **Volunteering** — teamwork, leadership, event support
 - **HackerRank** — Certificate of Accomplishment (https://www.hackerrank.com/certificates/iframe/a7cc47f70cd4)
+- **CodeForAll** - Certificate of Pratical Introduction to Artificial Intelligence | Programmers (2025). (https://certificate.codeforall.com/verify/e1f51b7f15965)
 
 ---
 
