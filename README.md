@@ -7,13 +7,12 @@ Hard-working, disciplined, and respectful, with a strong interest in **software 
 
 ## 🌍 About Me
 
+- Junior Software Engineer | Data & AI-focused 
 - 🎓 **Computer Engineering Student** — Polytechnic Institute of Castelo Branco (2023-Current)  
 - 🌍 **Erasmus+ 2025** — Białystok University of Technology, Poland  
 - 🎮 **Global Game Jam 2025** participant — Covilhã, Portugal  
 - 🤝 Volunteer in multiple local and academic events  
 - 🚗 Experience with **car import/export**  
-- ⚽ Former football player, now focused on **fitness and gym**  
-- 🏎️ Passionate about **motor sports and competitions**
 
 ---
 
